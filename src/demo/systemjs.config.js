@@ -39,7 +39,7 @@
       rxjs: {
         defaultExtension: 'js'
       },
-      'quickstart-lib': {
+      '@somescope/quickstart-lib': {
         main: 'index.js',
         defaultExtension: 'js',
         meta: {
